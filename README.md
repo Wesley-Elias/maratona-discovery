@@ -41,7 +41,9 @@
 ## :page_facing_up: Sobre o Projeto
 
 <p align="justify"> 
-  O dev.finances é uma aplicação frontend de controle financeiro, nesta aplicação é possível adicionar transações, tanto despesas quanto receitas e ver o balanço do total de receitas menos as despesas.  Também é possível excluir transações e ver o total de receitas e o total de despesas.
+  O dev.finances é uma aplicação frontend de controle financeiro feito do zero durante a Maratona Discovery, realizada pelo Mayk Brito da Rocketseat.
+  
+  Nesta aplicação é possível adicionar transações, tanto despesas quanto receitas e ver o balanço do total de receitas menos as despesas.  Também é possível excluir transações e ver o total de receitas e o total de despesas.
 
   Como a aplicação não possui backend, os dados ficam salvos no Local Storage no browser.
 
